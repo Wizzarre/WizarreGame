@@ -10,7 +10,7 @@ Welcome to the **Wizarre** adventure! In this game, you can explore the magical 
 
 2. **Install the Game:**
    - After downloading, unzip the file to a location on your PC.
-   - Open the extracted folder and double-click the `Wizarre.exe` (or equivalent) file to start the game.
+   - Open the extracted folder and double-click the `Wizarreinstaller.exe` (or equivalent) file to start the game.
 
 3. **Play the Game:**
    - Once the game starts, explore the Wizarre world.
