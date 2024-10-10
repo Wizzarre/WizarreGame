@@ -6,7 +6,7 @@ Welcome to the **Wizarre** adventure! In this game, you can explore the magical 
 
 1. **Download the Game:**
    - Click the **Release** tab on the right or scroll down to the game file section.
-   - Download the ZIP file containing the Wizarre game.
+   - Download the installer ZIP file containing the Wizarre game.
 
 2. **Install the Game:**
    - After downloading, unzip the file to a location on your PC.
